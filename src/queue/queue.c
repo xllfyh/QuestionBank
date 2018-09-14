@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "llist.h"
+#include "../llist/llist.h"
 #include "queue.h"
 
 QUEUE *queue_create(int size)
